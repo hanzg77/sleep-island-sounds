@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "source": "https://www.sleepisland.org/library/",
-  "status": "prelaunch",
-  "exported_at": null,
+  "status": "published-snapshot",
+  "exported_at": "2026-09-27T11:12:27.892Z",
   "count": 0,
   "recordings": []
 }

@@ -30,6 +30,6 @@ Public availability can change after a correction or withdrawal. A catalog snaps
 
 ## Help build the collection
 
-Request a sound or report a metadata error through Issues. Contributions can include better descriptions, translations, recording context and examples of creative use. Please do not attach audio, private recordings or personal information to public issues. Sound uploads will go through the website's submission and review process when registration opens.
+Request a sound or report a metadata error through Issues. Contributions can include better descriptions, translations, recording context and examples of creative use. Please do not attach audio, private recordings or personal information to public issues. [Register and upload a recording](https://www.sleepisland.org/library/upload/) on the website. Every submission is reviewed before publication.
 
 First-party recordings are being prepared by **ethan**, using **Zoom H2e**. Unreleased material remains private until the creator confirms its release and license. We do not infer recording dates from unverified device timestamps.
