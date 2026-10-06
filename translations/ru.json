@@ -6,6 +6,18 @@
   "locale": "ru",
   "recordings": [
     {
+      "id": "3df8ab2a-5481-4136-aa01-47953bc984c4",
+      "source_hash": "88c19f782fb8903d0d5bc86cccd5c20d77e09420da99aaddfbe5531938db3480",
+      "title": "Звук поезда, приближающегося издалека и затем удаляющегося",
+      "description": "",
+      "tags": [
+        "Звук поезда"
+      ],
+      "category": "other",
+      "location": "Саньмэнься, Китай",
+      "production_note": ""
+    },
+    {
       "id": "d36738af-5339-4074-a84d-b70931c7eccd",
       "source_hash": "dea9da0750c47ec9945d6ca523f0eb2d6111fdbae00fd41be2e69a80d34456e1",
       "title": "Сильный дождь, сильный ветер и глухой гром; капли дождя падают на подоконник и разбрызгиваются, запись у окна в офисе",

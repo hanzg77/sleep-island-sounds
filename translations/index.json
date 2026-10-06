@@ -5,6 +5,28 @@
   "fingerprint_version": 1,
   "recordings": [
     {
+      "id": "3df8ab2a-5481-4136-aa01-47953bc984c4",
+      "source_hash": "88c19f782fb8903d0d5bc86cccd5c20d77e09420da99aaddfbe5531938db3480",
+      "locales": [
+        "en",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ar",
+        "hi",
+        "vi",
+        "th",
+        "id"
+      ],
+      "translation_hash": "b65f183c65080f3c94eb943357d48955ee9df412a35ac705acbafaa0437dfb6a",
+      "translated_at": "2026-10-06T22:53:22.729Z"
+    },
+    {
       "id": "d36738af-5339-4074-a84d-b70931c7eccd",
       "source_hash": "dea9da0750c47ec9945d6ca523f0eb2d6111fdbae00fd41be2e69a80d34456e1",
       "locales": [

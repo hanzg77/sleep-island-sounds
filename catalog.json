@@ -2,9 +2,37 @@
   "schema_version": 1,
   "source": "https://www.sleepisland.org/library/",
   "status": "published-snapshot",
-  "exported_at": "2026-10-06T22:51:41.652Z",
-  "count": 2,
+  "exported_at": "2026-10-06T22:53:22.714Z",
+  "count": 3,
   "recordings": [
+    {
+      "id": "3df8ab2a-5481-4136-aa01-47953bc984c4",
+      "title": "火车从远处开过来又离开的声音",
+      "description": "",
+      "category": "other",
+      "tags": [
+        "火车声"
+      ],
+      "location": "中国三门峡",
+      "equipment": "Zoom h2e",
+      "recorded_on": "2026-08-13",
+      "production_note": "",
+      "duration_seconds": 41.592,
+      "format": "audio/mpeg",
+      "size_bytes": 998828,
+      "creator": {
+        "name": "ethan",
+        "url": "https://www.sleepisland.org/library/creators/3121b1b5-707d-47fe-925c-073e491ec4fe/"
+      },
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "page_url": "https://www.sleepisland.org/library/sounds/3df8ab2a-5481-4136-aa01-47953bc984c4/",
+      "download_url": "https://www.sleepisland.org/api/library/sounds/3df8ab2a-5481-4136-aa01-47953bc984c4/audio?download=1",
+      "published_at": "2026-10-06T22:51:42.000Z",
+      "updated_at": "2026-10-06T22:51:42.000Z"
+    },
     {
       "id": "d36738af-5339-4074-a84d-b70931c7eccd",
       "title": "大雨，大风，有闷雷 ，雨水落到窗台上溅落，办公室窗户边录音",
