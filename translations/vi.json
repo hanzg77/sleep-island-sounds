@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "source": "https://www.sleepisland.org/api/library/catalog",
+  "source_language": "zh-Hans",
+  "fingerprint_version": 1,
+  "locale": "vi",
+  "recordings": [
+    {
+      "id": "d45a1905-7496-4270-86f0-11424aa1d97d",
+      "source_hash": "aa2ffdbaca559f16fefac6b49f29cfb8b027a99daa88690a95837ab4b45ec4a0",
+      "title": "Tiếng ve giữa mùa hè · Công viên Rừng Olympic, Bắc Kinh",
+      "description": "Bản thu thực địa tiếng ve tại Công viên Rừng Olympic, Bắc Kinh.",
+      "tags": [
+        "tiếng ve",
+        "giữa mùa hè",
+        "công viên"
+      ],
+      "category": "nature",
+      "location": "Trung Quốc · Bắc Kinh · Công viên Rừng Olympic",
+      "production_note": ""
+    }
+  ]
+}

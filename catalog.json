@@ -2,7 +2,38 @@
   "schema_version": 1,
   "source": "https://www.sleepisland.org/library/",
   "status": "published-snapshot",
-  "exported_at": "2026-09-27T11:12:27.892Z",
-  "count": 0,
-  "recordings": []
+  "exported_at": "2026-10-06T22:24:42.187Z",
+  "count": 1,
+  "recordings": [
+    {
+      "id": "d45a1905-7496-4270-86f0-11424aa1d97d",
+      "title": "盛夏蝉鸣 · 北京奥森公园",
+      "description": "北京奥森公园的现场蝉鸣。",
+      "category": "nature",
+      "tags": [
+        "蝉鸣",
+        "盛夏",
+        "公园"
+      ],
+      "location": "中国 · 北京 · 奥森公园",
+      "equipment": "Zoom H2e · 立体声",
+      "recorded_on": "2026-08-05",
+      "production_note": "",
+      "duration_seconds": 361.2,
+      "format": "audio/mpeg",
+      "size_bytes": 8669420,
+      "creator": {
+        "name": "ethan",
+        "url": "https://www.sleepisland.org/library/creators/3121b1b5-707d-47fe-925c-073e491ec4fe/"
+      },
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "page_url": "https://www.sleepisland.org/library/sounds/d45a1905-7496-4270-86f0-11424aa1d97d/",
+      "download_url": "https://www.sleepisland.org/api/library/sounds/d45a1905-7496-4270-86f0-11424aa1d97d/audio?download=1",
+      "published_at": "2026-10-06T08:59:13.000Z",
+      "updated_at": "2026-10-06T09:00:19.000Z"
+    }
+  ]
 }

@@ -7,10 +7,10 @@ For an audio contribution, prepare:
 - A descriptive title and an honest description: what can be heard, and any known speech, music or sudden noise.
 - Audio you have the necessary rights to share; a cover photo is optional and also needs permission.
 - Category, a few useful tags, equipment and editing notes. Location is optional; do not include a private street address.
-- Explicit confirmation of CC BY 4.0 and your rights before submission. Moderators review before publication.
+- Explicit confirmation of CC BY 4.0 and your rights before submission. Regular submissions follow the site's review process; trusted creator recordings processed in the local recording desk can be published directly.
 
 The initial upload limit is 32 MiB per audio file, 5 seconds–60 minutes, mono or stereo, MP3/M4A/WAV/FLAC. Publication does not mean automatic inclusion in the Sleep Island app or suitability for sleep.
 
-Please do not edit generated `catalog.json` or `SOUNDS.md` directly. Report corrections so they can be reviewed on the website, then exported again. Only public works appear in the export; private drafts, login email addresses and moderation notes are excluded.
+Please do not edit generated `catalog.json`, `SOUNDS.md` or `translations/*.json` directly. Report source corrections on the website or translation corrections through Issues, then synchronize again. The Codex daily task translates published text at 09:00 Beijing time. Only public works appear in the export; private drafts, login email addresses and moderation notes are excluded.
 
-中文：欢迎帮助补充描述、翻译、场景信息和纠错。音频通过网站投稿，不通过 PR 或 Issue 附件提交。请明确声音中的已知人声、音乐和突发声，逐条确认素材权利与开放许可。目录由网站生成，纠错先在网站审核，再同步到仓库。
+中文：欢迎帮助补充描述、翻译、场景信息和纠错。音频通过网站投稿，不通过 PR 或 Issue 附件提交。请明确声音中的已知人声、音乐和突发声，逐条确认素材权利与开放许可。目录由网站公开数据生成，原文在网站纠正，译文通过 Issues 提出纠错，再由每日任务同步。

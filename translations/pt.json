@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "source": "https://www.sleepisland.org/api/library/catalog",
+  "source_language": "zh-Hans",
+  "fingerprint_version": 1,
+  "locale": "pt",
+  "recordings": [
+    {
+      "id": "d45a1905-7496-4270-86f0-11424aa1d97d",
+      "source_hash": "aa2ffdbaca559f16fefac6b49f29cfb8b027a99daa88690a95837ab4b45ec4a0",
+      "title": "Cigarras em pleno verão · Parque Florestal Olímpico, Pequim",
+      "description": "Gravação de campo de cigarras no Parque Florestal Olímpico de Pequim.",
+      "tags": [
+        "cigarras",
+        "pleno verão",
+        "parque"
+      ],
+      "category": "nature",
+      "location": "China · Pequim · Parque Florestal Olímpico",
+      "production_note": ""
+    }
+  ]
+}

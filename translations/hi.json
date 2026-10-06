@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "source": "https://www.sleepisland.org/api/library/catalog",
+  "source_language": "zh-Hans",
+  "fingerprint_version": 1,
+  "locale": "hi",
+  "recordings": [
+    {
+      "id": "d45a1905-7496-4270-86f0-11424aa1d97d",
+      "source_hash": "aa2ffdbaca559f16fefac6b49f29cfb8b027a99daa88690a95837ab4b45ec4a0",
+      "title": "गर्मियों के चरम में सिकाडों की आवाज़ · ओलंपिक फ़ॉरेस्ट पार्क, बीजिंग",
+      "description": "बीजिंग के ओलंपिक फ़ॉरेस्ट पार्क में सिकाडों की आवाज़ की मैदानी रिकॉर्डिंग।",
+      "tags": [
+        "सिकाडा",
+        "गर्मियों का चरम",
+        "पार्क"
+      ],
+      "category": "nature",
+      "location": "चीन · बीजिंग · ओलंपिक फ़ॉरेस्ट पार्क",
+      "production_note": ""
+    }
+  ]
+}
