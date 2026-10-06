@@ -6,6 +6,19 @@
   "locale": "de",
   "recordings": [
     {
+      "id": "d36738af-5339-4074-a84d-b70931c7eccd",
+      "source_hash": "dea9da0750c47ec9945d6ca523f0eb2d6111fdbae00fd41be2e69a80d34456e1",
+      "title": "Starker Regen, starker Wind und dumpfer Donner; Regenwasser fällt auf die Fensterbank und spritzt, aufgenommen am Bürofenster",
+      "description": "",
+      "tags": [
+        "Regengeräusche",
+        "Büro"
+      ],
+      "category": "rain",
+      "location": "Peking · Haidian",
+      "production_note": ""
+    },
+    {
       "id": "d45a1905-7496-4270-86f0-11424aa1d97d",
       "source_hash": "aa2ffdbaca559f16fefac6b49f29cfb8b027a99daa88690a95837ab4b45ec4a0",
       "title": "Zikaden im Hochsommer · Olympischer Waldpark, Peking",

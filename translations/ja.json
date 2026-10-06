@@ -6,6 +6,19 @@
   "locale": "ja",
   "recordings": [
     {
+      "id": "d36738af-5339-4074-a84d-b70931c7eccd",
+      "source_hash": "dea9da0750c47ec9945d6ca523f0eb2d6111fdbae00fd41be2e69a80d34456e1",
+      "title": "大雨、強風、低く響く雷。雨が窓台に落ちて跳ねる音を、オフィスの窓辺で録音",
+      "description": "",
+      "tags": [
+        "雨音",
+        "オフィス"
+      ],
+      "category": "rain",
+      "location": "北京・海淀",
+      "production_note": ""
+    },
+    {
       "id": "d45a1905-7496-4270-86f0-11424aa1d97d",
       "source_hash": "aa2ffdbaca559f16fefac6b49f29cfb8b027a99daa88690a95837ab4b45ec4a0",
       "title": "真夏のセミの声 · 北京オリンピック森林公園",
