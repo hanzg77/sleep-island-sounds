@@ -1,0 +1,30 @@
+{
+  "schema_version": 1,
+  "source": "https://www.sleepisland.org/api/library/catalog",
+  "source_language": "zh-Hans",
+  "fingerprint_version": 1,
+  "recordings": [
+    {
+      "id": "d45a1905-7496-4270-86f0-11424aa1d97d",
+      "source_hash": "aa2ffdbaca559f16fefac6b49f29cfb8b027a99daa88690a95837ab4b45ec4a0",
+      "locales": [
+        "en",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ar",
+        "hi",
+        "vi",
+        "th",
+        "id"
+      ],
+      "translation_hash": "7c94ca801e84ee4c506f226fd86dd706a8caf2862093080357fe22867a26ed2e",
+      "translated_at": "2026-10-06T22:36:17.249Z"
+    }
+  ]
+}

@@ -32,7 +32,9 @@ Public availability can change after a correction or withdrawal. A catalog snaps
 
 Every day at 09:00 Beijing time, the existing Codex scheduled task reads the public website catalog, translates new or changed recording text into the website's other 14 languages, and synchronizes this repository. Original text stays in `catalog.json`; translated titles, descriptions, tags, public locations and production notes are in `translations/<language>.json`. Empty fields stay empty. Creator names, equipment, recording dates and audio are not translated.
 
-Translations are linked to the exact original text by a source fingerprint. Unchanged text is reused; withdrawn recordings leave the current snapshot. A failed fetch or validation preserves the last valid files. Publication on GitHub does not mean those translations are already displayed on the website: website integration is a separate step. This daily task does not delay the original recording's publication.
+Translations are linked to the exact original text by a source fingerprint. Unchanged text is reused; withdrawn recordings leave the current snapshot. A failed fetch or validation preserves the last valid files. `translations/index.json` lists the source fingerprint, available locales, a stable translation-content hash and the last translation change time for each recording.
+
+The website's Workers reader uses these public files for translated recording pages, hreflang and the sound sitemap after verifying the current source and translation fingerprints. Its cache is about 60 seconds; failed, incomplete or outdated reads fall back to the original. GitHub publication and verified website availability remain separate results. The daily task checks the live language pages and sitemap before search submission. This task does not delay the original recording's publication. Recording pages keep their existing layout; UI optimization is handled separately.
 
 ## Help build the collection
 
