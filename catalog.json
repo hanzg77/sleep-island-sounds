@@ -2,9 +2,37 @@
   "schema_version": 1,
   "source": "https://www.sleepisland.org/library/",
   "status": "published-snapshot",
-  "exported_at": "2026-10-06T22:53:22.714Z",
-  "count": 3,
+  "exported_at": "2026-10-07T00:59:42.204Z",
+  "count": 5,
   "recordings": [
+    {
+      "id": "250d174a-37d0-4edb-8823-e6785e1c76a5",
+      "title": "火车声音和夜晚虫鸣声",
+      "description": "",
+      "category": "nature",
+      "tags": [
+        "火车"
+      ],
+      "location": "中国三门峡",
+      "equipment": "Zoom h2e",
+      "recorded_on": "2026-09-04",
+      "production_note": "",
+      "duration_seconds": 71.112,
+      "format": "audio/mpeg",
+      "size_bytes": 1707308,
+      "creator": {
+        "name": "ethan",
+        "url": "https://www.sleepisland.org/library/creators/3121b1b5-707d-47fe-925c-073e491ec4fe/"
+      },
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "page_url": "https://www.sleepisland.org/library/sounds/250d174a-37d0-4edb-8823-e6785e1c76a5/",
+      "download_url": "https://www.sleepisland.org/api/library/sounds/250d174a-37d0-4edb-8823-e6785e1c76a5/audio?download=1",
+      "published_at": "2026-10-06T22:54:36.000Z",
+      "updated_at": "2026-10-06T22:54:36.000Z"
+    },
     {
       "id": "3df8ab2a-5481-4136-aa01-47953bc984c4",
       "title": "火车从远处开过来又离开的声音",
@@ -32,6 +60,36 @@
       "download_url": "https://www.sleepisland.org/api/library/sounds/3df8ab2a-5481-4136-aa01-47953bc984c4/audio?download=1",
       "published_at": "2026-10-06T22:51:42.000Z",
       "updated_at": "2026-10-06T22:51:42.000Z"
+    },
+    {
+      "id": "9676aaf7-5be6-425f-85aa-a2cc06197a1d",
+      "title": "夜晚远处虫鸣、鸟叫、狗叫声",
+      "description": "",
+      "category": "nature",
+      "tags": [
+        "虫鸣",
+        "鸟叫",
+        "狗叫"
+      ],
+      "location": "中国三门峡",
+      "equipment": "Zoom h2e",
+      "recorded_on": "2026-09-04",
+      "production_note": "",
+      "duration_seconds": 117.936,
+      "format": "audio/mpeg",
+      "size_bytes": 2831084,
+      "creator": {
+        "name": "ethan",
+        "url": "https://www.sleepisland.org/library/creators/3121b1b5-707d-47fe-925c-073e491ec4fe/"
+      },
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "page_url": "https://www.sleepisland.org/library/sounds/9676aaf7-5be6-425f-85aa-a2cc06197a1d/",
+      "download_url": "https://www.sleepisland.org/api/library/sounds/9676aaf7-5be6-425f-85aa-a2cc06197a1d/audio?download=1",
+      "published_at": "2026-10-06T22:58:35.000Z",
+      "updated_at": "2026-10-06T22:58:35.000Z"
     },
     {
       "id": "d36738af-5339-4074-a84d-b70931c7eccd",

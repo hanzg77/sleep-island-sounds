@@ -6,6 +6,18 @@
   "locale": "th",
   "recordings": [
     {
+      "id": "250d174a-37d0-4edb-8823-e6785e1c76a5",
+      "source_hash": "79873fd0b03599de596ccaa734fc866499fc47ef758d270481c936588ab46a21",
+      "title": "เสียงรถไฟและเสียงแมลงในยามค่ำคืน",
+      "description": "",
+      "tags": [
+        "รถไฟ"
+      ],
+      "category": "nature",
+      "location": "ซานเหมินเสีย ประเทศจีน",
+      "production_note": ""
+    },
+    {
       "id": "3df8ab2a-5481-4136-aa01-47953bc984c4",
       "source_hash": "88c19f782fb8903d0d5bc86cccd5c20d77e09420da99aaddfbe5531938db3480",
       "title": "เสียงรถไฟที่แล่นเข้ามาจากไกล ๆ แล้วแล่นจากไป",
@@ -15,6 +27,20 @@
       ],
       "category": "other",
       "location": "Sanmenxia, จีน",
+      "production_note": ""
+    },
+    {
+      "id": "9676aaf7-5be6-425f-85aa-a2cc06197a1d",
+      "source_hash": "a2bc9cb4570e17d7ec597fac7b26605574c8ba579e08aa0d2ab476529e583cb3",
+      "title": "เสียงแมลง เสียงนก และเสียงสุนัขเห่าจากระยะไกลในยามค่ำคืน",
+      "description": "",
+      "tags": [
+        "เสียงแมลง",
+        "เสียงนก",
+        "เสียงสุนัขเห่า"
+      ],
+      "category": "nature",
+      "location": "ซานเหมินเสีย ประเทศจีน",
       "production_note": ""
     },
     {
