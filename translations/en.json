@@ -6,6 +6,18 @@
   "locale": "en",
   "recordings": [
     {
+      "id": "2049759b-44be-4162-970f-be9dd36a70ce",
+      "source_hash": "347c0ff2fbba33e0138e5d4d6b7b0f2859280356d52691865185be58b85651c5",
+      "title": "Working soil with a hoe and insect sounds around farmland",
+      "description": "",
+      "tags": [
+        "Soil work with a hoe"
+      ],
+      "category": "other",
+      "location": "Sanmenxia, China",
+      "production_note": ""
+    },
+    {
       "id": "250d174a-37d0-4edb-8823-e6785e1c76a5",
       "source_hash": "79873fd0b03599de596ccaa734fc866499fc47ef758d270481c936588ab46a21",
       "title": "Train sounds and nighttime insect calls",
@@ -68,6 +80,18 @@
       ],
       "category": "nature",
       "location": "China · Beijing · Olympic Forest Park",
+      "production_note": ""
+    },
+    {
+      "id": "ea7565a2-d038-4b9a-beb8-a11b0b7b4fe4",
+      "source_hash": "ef95351b1dfeca750dfb4b0353c20f9e7e5a1b902b29e2235f44542afbf7bd3c",
+      "title": "Nearby cricket calls; distant sweeping, soil work and insect sounds",
+      "description": "",
+      "tags": [
+        "Insect sounds"
+      ],
+      "category": "nature",
+      "location": "Mianchi, Henan, China",
       "production_note": ""
     }
   ]

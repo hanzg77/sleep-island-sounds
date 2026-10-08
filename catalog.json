@@ -2,9 +2,37 @@
   "schema_version": 1,
   "source": "https://www.sleepisland.org/library/",
   "status": "published-snapshot",
-  "exported_at": "2026-10-07T00:59:42.204Z",
-  "count": 5,
+  "exported_at": "2026-10-08T01:55:32.504Z",
+  "count": 7,
   "recordings": [
+    {
+      "id": "2049759b-44be-4162-970f-be9dd36a70ce",
+      "title": "锄头陇地 ，农田周围虫鸣声",
+      "description": "",
+      "category": "other",
+      "tags": [
+        "锄头陇地"
+      ],
+      "location": "中国三门峡",
+      "equipment": "Zoom h2e",
+      "recorded_on": "2026-09-05",
+      "production_note": "",
+      "duration_seconds": 56.184,
+      "format": "audio/mpeg",
+      "size_bytes": 1349036,
+      "creator": {
+        "name": "ethan",
+        "url": "https://www.sleepisland.org/library/creators/3121b1b5-707d-47fe-925c-073e491ec4fe/"
+      },
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "page_url": "https://www.sleepisland.org/library/sounds/2049759b-44be-4162-970f-be9dd36a70ce/",
+      "download_url": "https://www.sleepisland.org/api/library/sounds/2049759b-44be-4162-970f-be9dd36a70ce/audio?download=1",
+      "published_at": "2026-10-07T01:35:15.000Z",
+      "updated_at": "2026-10-07T01:35:15.000Z"
+    },
     {
       "id": "250d174a-37d0-4edb-8823-e6785e1c76a5",
       "title": "火车声音和夜晚虫鸣声",
@@ -149,6 +177,34 @@
       "download_url": "https://www.sleepisland.org/api/library/sounds/d45a1905-7496-4270-86f0-11424aa1d97d/audio?download=1",
       "published_at": "2026-10-06T08:59:13.000Z",
       "updated_at": "2026-10-06T09:00:19.000Z"
+    },
+    {
+      "id": "ea7565a2-d038-4b9a-beb8-a11b0b7b4fe4",
+      "title": "近处蛐蛐叫声，远处扫地、垄地、虫鸣声音",
+      "description": "",
+      "category": "nature",
+      "tags": [
+        "虫鸣"
+      ],
+      "location": "中国 河南 渑池",
+      "equipment": "Zoom h2e",
+      "recorded_on": "2026-09-05",
+      "production_note": "",
+      "duration_seconds": 209.016,
+      "format": "audio/mpeg",
+      "size_bytes": 5017004,
+      "creator": {
+        "name": "ethan",
+        "url": "https://www.sleepisland.org/library/creators/3121b1b5-707d-47fe-925c-073e491ec4fe/"
+      },
+      "license": {
+        "id": "CC-BY-4.0",
+        "url": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "page_url": "https://www.sleepisland.org/library/sounds/ea7565a2-d038-4b9a-beb8-a11b0b7b4fe4/",
+      "download_url": "https://www.sleepisland.org/api/library/sounds/ea7565a2-d038-4b9a-beb8-a11b0b7b4fe4/audio?download=1",
+      "published_at": "2026-10-07T01:46:54.000Z",
+      "updated_at": "2026-10-07T01:46:54.000Z"
     }
   ]
 }

@@ -5,6 +5,28 @@
   "fingerprint_version": 1,
   "recordings": [
     {
+      "id": "2049759b-44be-4162-970f-be9dd36a70ce",
+      "source_hash": "347c0ff2fbba33e0138e5d4d6b7b0f2859280356d52691865185be58b85651c5",
+      "locales": [
+        "en",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ar",
+        "hi",
+        "vi",
+        "th",
+        "id"
+      ],
+      "translation_hash": "9872372851b7708010ec56dbd63cc5658ac5bd66975d13c33a27c4224402a43a",
+      "translated_at": "2026-10-08T01:55:32.523Z"
+    },
+    {
       "id": "250d174a-37d0-4edb-8823-e6785e1c76a5",
       "source_hash": "79873fd0b03599de596ccaa734fc866499fc47ef758d270481c936588ab46a21",
       "locales": [
@@ -113,6 +135,28 @@
       ],
       "translation_hash": "7c94ca801e84ee4c506f226fd86dd706a8caf2862093080357fe22867a26ed2e",
       "translated_at": "2026-10-06T22:36:17.249Z"
+    },
+    {
+      "id": "ea7565a2-d038-4b9a-beb8-a11b0b7b4fe4",
+      "source_hash": "ef95351b1dfeca750dfb4b0353c20f9e7e5a1b902b29e2235f44542afbf7bd3c",
+      "locales": [
+        "en",
+        "zh-Hant",
+        "ja",
+        "ko",
+        "es",
+        "fr",
+        "de",
+        "pt",
+        "ru",
+        "ar",
+        "hi",
+        "vi",
+        "th",
+        "id"
+      ],
+      "translation_hash": "e0cca9fbc2d35c806441fce16d37b498d6fd663b57e75a82dcb5257fb66b7389",
+      "translated_at": "2026-10-08T01:55:32.523Z"
     }
   ]
 }

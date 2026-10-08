@@ -6,6 +6,18 @@
   "locale": "id",
   "recordings": [
     {
+      "id": "2049759b-44be-4162-970f-be9dd36a70ce",
+      "source_hash": "347c0ff2fbba33e0138e5d4d6b7b0f2859280356d52691865185be58b85651c5",
+      "title": "Suara mencangkul tanah dan serangga di sekitar lahan pertanian",
+      "description": "",
+      "tags": [
+        "Mencangkul tanah"
+      ],
+      "category": "other",
+      "location": "Sanmenxia, Tiongkok",
+      "production_note": ""
+    },
+    {
       "id": "250d174a-37d0-4edb-8823-e6785e1c76a5",
       "source_hash": "79873fd0b03599de596ccaa734fc866499fc47ef758d270481c936588ab46a21",
       "title": "Suara kereta api dan serangga pada malam hari",
@@ -68,6 +80,18 @@
       ],
       "category": "nature",
       "location": "Tiongkok · Beijing · Taman Hutan Olimpiade",
+      "production_note": ""
+    },
+    {
+      "id": "ea7565a2-d038-4b9a-beb8-a11b0b7b4fe4",
+      "source_hash": "ef95351b1dfeca750dfb4b0353c20f9e7e5a1b902b29e2235f44542afbf7bd3c",
+      "title": "Suara jangkrik dari dekat serta suara menyapu, mengolah tanah, dan serangga dari kejauhan",
+      "description": "",
+      "tags": [
+        "Suara serangga"
+      ],
+      "category": "nature",
+      "location": "Mianchi, Henan, Tiongkok",
       "production_note": ""
     }
   ]
